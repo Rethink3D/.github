@@ -1,0 +1,1 @@
+A Rethink3D é um marketplace inovador que conecta makers e clientes interessados em impressão 3D. Nosso objetivo é facilitar o acesso a serviços de impressão sob demanda, permitindo que designers, engenheiros e entusiastas encontrem os melhores profissionais para transformar ideias em realidade.
